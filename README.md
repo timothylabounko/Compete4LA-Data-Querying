@@ -1,5 +1,6 @@
-# LABC-SBA-Classifier
+# Compete4LA Initiative Data Quering
 
-- Code for classifying small business under SBA classifications.
+LABC-SBA-Classifier
+  - Code for classifying small business under SBA classifications.
 
-- Under the Compete4LA Initiative run by LA Business Council and USC Center for Economic Development.
+  - Under the Compete4LA Initiative run by LA Business Council and USC Center for Economic Development.
